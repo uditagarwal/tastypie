@@ -1,0 +1,10 @@
+django-oauth-plus
+oauth2
+lxml
+defusedxml
+python3-digest
+biplist
+pyyaml
+python-mimeparse>=0.1.4
+python-dateutil>=2.1
+mock
