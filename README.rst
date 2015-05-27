@@ -7,6 +7,7 @@ Creating delicious APIs for Django apps since 2010.
 Currently in beta (v0.9.14) but being used actively in production on several
 sites.
 
+Forked from Django-tastypie, and fixes the deepcopy memory hog issue. Needed to use this on Heroku anyway.
 
 Requirements
 ============
